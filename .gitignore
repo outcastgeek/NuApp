@@ -1,0 +1,11 @@
+*/*.o
+.DS_Store
+*.swp
+*.un~
+build
+mininush
+nush
+Nu.framework
+doc
+libNu.a
+doc
