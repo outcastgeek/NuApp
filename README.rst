@@ -10,8 +10,7 @@ Nu Project Template
 
 2. Details
 
-- Based on the project by Tim Burks made available for download here:
-  http://groups.google.com/group/programming-nu/browse_thread/thread/b6a97719bdfd1035
-
-- Only file modified was "Nu.h" where the imports have been adjusted to allow
-  for a self-contained version of Nu within the Xcode project.
+- started with NuTemplate.zip from
+  https://groups.google.com/d/msg/programming-nu/tql3Gb39EDU/LST9bt104L0J and
+  modified it to NuApp from
+  https://github.com/timburks/nu/tree/91be0c1bdf437d19062b8c93a66c991998d92259/iOS/NuApp
